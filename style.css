@@ -1,0 +1,12 @@
+#barraPrincipal{
+    margin-left: -15px;
+    margin-right: -15px; 
+}
+.fondo{
+    background-color: black;
+    border-radius: 10px;
+}
+#carouselExampleCaptions{
+    margin-left: -15px;
+    margin-right: -15px; 
+}
